@@ -1,0 +1,6 @@
+[package]
+name = "rusty_crypt"
+version = "0.1.0"
+authors = ["Erik <no@no.com>"]
+
+[dependencies]

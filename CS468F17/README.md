@@ -1,0 +1,1 @@
+This is the course material for CS 468, Fall 2017

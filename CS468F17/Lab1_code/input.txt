@@ -1,0 +1,4 @@
+i'm typing something here to see
+if this will work with fread
+12345678
+blsdf;sdfkja;sldkfjas;dfkahs;fewj;efklj
